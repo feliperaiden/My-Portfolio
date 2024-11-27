@@ -16,7 +16,7 @@ Hello! I'm Felipe A Santos, a software developer and automation tester with expe
 
 ## Projects
 
-### 1. **[Cypress Automation Project](https://github.com/your-username/Cypress-Project](https://github.com/feliperaiden/E2ECypressProject.git)**
+### 1. **[Cypress Automation Project](https://github.com/feliperaiden/E2ECypressProject.git)**
 Project description: This is an automation testing project using Cypress to test an example application.
 - UI, API, and integration tests.
 - Best practices like Page Objects and POM (Page Object Model) are used.
